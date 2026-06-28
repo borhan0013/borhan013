@@ -8,7 +8,7 @@ A passionate Computer Science Student and Aspiring Software Engineer from Bangla
 - 🎓 **Education:** Studying Computer Science and Engineering at Daffodil International University (DIU).
 - 🚀 **Future Goal:** Aspiring Software Engineer.
 - 🌱 **Currently Learning:** Advanced Data Structures, Algorithms, and Full-Stack Development.
-- 💬 **Ask me about:** C, C++, Java, or Python (Edit this based on what you know).
+- 💬 **Ask me about:** C, C++, Java, or Python.
 - 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/md-abdullah-al-borhan-5897683b7)
 
 ---
